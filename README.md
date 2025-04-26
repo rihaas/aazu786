@@ -3,16 +3,20 @@
 <p>A Mechanical Engineer turned Data Analyst with a passion for continuous learning and innovation.</p>
 
 <h2>🚀 Current Tools & Skills</h2>
-<ul>
-  <li><strong>Power BI</strong> - Data Visualization and Business Intelligence</li>
-  <li><strong>SQL</strong> - Data Querying and Management</li>
-  <li><strong>Power Automate</strong> - Workflow Automation</li>
-  <li><strong>Python</strong> - Data Analysis and Automation</li>
-  <li><strong>AI</strong> - Exploring the future of technology</li>
-</ul>
+
+<h3>🛠️ Tech Stack</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Power%20Automate-0078D4?style=for-the-badge&logo=Microsoft%20Power%20Automate&logoColor=white" alt="Power Automate"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-00BFFF?style=for-the-badge&logo=OpenAI&logoColor=white" alt="AI"/>
+  <img src="https://img.shields.io/badge/Alteryx-003366?style=for-the-badge&logo=Alteryx&logoColor=white" alt="Alteryx"/>
+</p>
 
 <h2>🎯 About Me</h2>
-<p>I have transitioned from the mechanical engineering field into data analytics, driven by my zest for learning and my love for working with data, technology, and intelligent systems.</p>
+<p>I have transitioned from mechanical engineering into data analytics, driven by my love for technology, intelligent systems, and data storytelling.</p>
 
 <h2>📫 Let's Connect!</h2>
 <ul>
@@ -22,4 +26,4 @@
 
 <hr>
 
-<p><em>Every day is a chance to learn something new — let's build the future together!</em> 🚀</p>
+<p><em>Every day is a new opportunity to learn, create, and innovate. 🚀</em></p>

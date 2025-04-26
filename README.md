@@ -5,11 +5,12 @@
 
 ### 🌟 About Me:
 
-- 🎓 Former Mechanical Engineer who discovered a passion for **Data Analysis** and **Automation**.
-- 🚀 Currently sharpening my skills in **Power BI, SQL, Python, Alteryx, Power Automate**, and exploring **AI**.
-- 🌱 Always learning, evolving, and ready to take on new challenges.
-- 💬 Feel free to ask me about **Data Analytics, BI Solutions, and Process Automation**.
-- 📫 Connect with me at: [rihas@example.com](mailto:rihas@example.com)
+- 🎓 Former Mechanical Engineer who transitioned into **Data Analytics** and **Automation**.
+- 🚀 Currently sharpening skills in **Power BI, SQL, Python, Alteryx, Power Automate, HTML**, and **AI**.
+- 🎨 Exploring UI/UX design using **Figma** to build better dashboards and applications.
+- 🌱 Life-long learner, always curious to explore new technologies.
+- 💬 Ask me about **Data Analytics, BI, Automation, and Process Optimization**.
+- 📫 Reach me at: [rihas@example.com](mailto:rihas@example.com)
 
 ---
 
@@ -25,22 +26,28 @@
 
 ### 🛠️ Languages and Tools:
 
-#### Data Analytics and BI:
+#### 📊 Data Analytics and Business Intelligence:
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/Alteryx-003B71?style=for-the-badge&logo=alteryx&logoColor=white" alt="Alteryx" />
 </p>
 
-#### Automation:
+#### ⚙️ Automation:
 <p>
   <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=Microsoft%20Power%20Automate&logoColor=white" alt="Power Automate" />
 </p>
 
-#### Programming & AI:
+#### 🧠 Programming & AI:
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-00BFFF?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
+</p>
+
+#### 🌐 Web Technologies & Design:
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
 ---
@@ -54,5 +61,5 @@
 ---
 
 <p align="center">
-  <em>✨ "From designing machines to designing data stories — every day is a journey of learning!" ✨</em>
+  <em>✨ "From building machines to building insights — every step is a new story!" ✨</em>
 </p>

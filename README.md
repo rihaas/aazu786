@@ -10,7 +10,7 @@
 - 🎨 Exploring UI/UX design using **Figma** to build better dashboards and applications.
 - 🌱 Life-long learner, always curious to explore new technologies.
 - 💬 Ask me about **Data Analytics, BI, Automation, and Process Optimization**.
-- 📫 Reach me at: [rihas@example.com](mailto:rihas@example.com)
+- 📫 Reach me at: [rihas.docs@gmail.com](mailto:rihas.docs@gmail.com)
 
 ---
 
